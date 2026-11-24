@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CnLINQ_OfType
+namespace Cn_LINQ_OfType_Hu
 {
 	class Program
 	{
